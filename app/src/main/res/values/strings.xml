@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DavidHarrisGreenFlag</string>
+    <string name="greenflag_customers_can_ncreate_an_account_to_access">GreenFlag customers can \ncreate an an account to access</string>
+    <string name="car_health_updates">Car health updates</string>
+    <string name="request_a_rescue_online">Request a rescue online</string>
+    <string name="policy_information">Policy Information</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="logo">LOGO</string>
+    <string name="check1">CHECK1</string>
+    <string name="check2">CHECK2</string>
+    <string name="check3">CHECK3</string>
+    <string name="please_enter_valid_email">Please enter valid email</string>
+    <string name="create_an_account2">Create an account</string>
+    <string name="back_arrow">back_arrow</string>
+</resources>
